@@ -1,0 +1,29 @@
+{
+  "name": "vue-material-datepicker",
+  "version": "1.0.0",
+  "description": "Datepicker component with material design for Vue.js ",
+  "main": "md-datepicker.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blogui91/vue-material-datepicker.git"
+  },
+  "keywords": [
+    "vue",
+    "datepicker",
+    "vue-datepicker"
+  ],
+  "author": "Blogui91",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blogui91/vue-material-datepicker/issues"
+  },
+  "homepage": "https://github.com/blogui91/vue-material-datepicker#readme",
+  "dependencies": {
+    "moment": "^2.11.1",
+    "lodash": "^4.5.0",
+    "vue-touch": "^1.0.2"
+  }
+}
